@@ -25,6 +25,12 @@ img
 a
 {
 	margin: 0;
+	color:white;
+}
+
+p
+{
+	color:white;
 }
 
 div img
@@ -34,5 +40,5 @@ div img
 
 body
 {
-	background:white;
+	background-image: url(Space.jpg);
 }
