@@ -42,3 +42,16 @@ body
 {
 	background-image: url(Space.jpg);
 }
+
+div.pictures
+{
+	clear:both;
+	position: relative;
+	width: 550px
+}
+
+h1
+{
+	position: fixed;
+	left:600px;
+}
